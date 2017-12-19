@@ -1,5 +1,6 @@
 # React, Redux, and Express with auth boilerplate
 Two terminal windows are needed
+
 In 1:
 `cd react-redux-express-with-auth-boilerplate`  
 `npm install`  
