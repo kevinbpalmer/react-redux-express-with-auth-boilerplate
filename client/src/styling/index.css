@@ -1,0 +1,44 @@
+@import url("https://fonts.googleapis.com/css?family=Work+Sans");
+body {
+  font-family: 'Work Sans', Arial, sans-serif; }
+
+.row {
+  margin: .5rem; }
+
+.form-row {
+  display: flex;
+  justify-content: center;
+  margin: 1rem 0; }
+
+.ant-form-item {
+  width: 100%; }
+
+.primary-color {
+  color: #9E1B32; }
+
+.horizontal-row {
+  display: flex; }
+
+.text-center {
+  text-align: center; }
+
+.default-spinner {
+  width: 100%;
+  margin: 1rem auto 0 auto; }
+
+.container {
+  margin-right: auto;
+  margin-left: auto;
+  max-width: 100%; }
+
+@media (min-width: 768px) {
+  .container {
+    width: 750px; } }
+
+@media (min-width: 992px) {
+  .container {
+    width: 970px; } }
+
+@media (min-width: 1200px) {
+  .container {
+    width: 1170px; } }

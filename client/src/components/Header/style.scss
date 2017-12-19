@@ -1,0 +1,19 @@
+@import 'styling/variables.scss';
+
+.header-wrapper {
+  background-color:  $primary-color;
+  min-height: 200px;
+}
+
+.header-wrapper .menu-row {
+  border-bottom: rgba(255,255,255, .08) 1px solid;
+}
+
+.header-wrapper .menu-row .ant-menu {
+  display: flex;
+  justify-content: flex-end;
+}
+
+.header-wrapper .nav-active-item {
+  color: #fff !important;
+}

@@ -1,0 +1,18 @@
+.login-wrapper .login-inner-wrapper {
+  display: flex;
+  justify-content: center;
+  width: 400px;
+  max-width: 100%;
+}
+
+.login-wrapper .login-inner-wrapper .login-form-wrapper {
+  width: 100%;
+}
+
+.login-wrapper .login-button-wrapper {
+  display: flex;
+}
+
+.login-wrapper .login-button-wrapper .ant-form-item {
+  margin: 0 6px;
+}

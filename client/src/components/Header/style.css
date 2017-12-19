@@ -1,0 +1,13 @@
+.header-wrapper {
+  background-color: #9E1B32;
+  min-height: 200px; }
+
+.header-wrapper .menu-row {
+  border-bottom: rgba(255, 255, 255, 0.08) 1px solid; }
+
+.header-wrapper .menu-row .ant-menu {
+  display: flex;
+  justify-content: flex-end; }
+
+.header-wrapper .nav-active-item {
+  color: #fff !important; }

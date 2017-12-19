@@ -1,0 +1,17 @@
+.register-wrapper .register-inner-wrapper {
+  display: flex;
+  justify-content: center;
+  width: 400px;
+}
+
+.register-wrapper .register-inner-wrapper .register-form-wrapper {
+  width: 100%;
+}
+
+.register-wrapper .register-name-row .ant-form-item:first-child {
+  margin-right: .25rem;
+}
+
+.register-wrapper .register-name-row .ant-form-item:last-child {
+  margin-left: .25rem;
+}
