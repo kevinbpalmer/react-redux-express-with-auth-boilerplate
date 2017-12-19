@@ -35,6 +35,9 @@ EMAIL_PASSWORD=<your-email-password i.e. pass123>
 
 # Links to resources needed
 [Nexmo (development numbers are free)](https://www.nexmo.com/)
+
 [Facebook Developer](https://developers.facebook.com/)
+
 [I recommend MLabs for easy development databases](https://mlab.com/)
+
 [I recommend Mailgun for ease of use with nodemailer](https://www.mailgun.com/)
