@@ -18,7 +18,8 @@ The root of the project utilizes express-generator with passport for authenticat
 
 # Setting up this repo
 You will need to create a .env file in the root of this project with the following Environment variables:
-`NODE_ENV=development
+```
+NODE_ENV=development
 PORT=3001
 MONGO_URI=<your-mongo-db-connection-string>
 NEXMO_API_KEY=<nexmo-api-key>
@@ -30,7 +31,7 @@ FACEBOOK_CALLBACK_URL=http://localhost:3001/auth/facebook/callback
 EMAIL_HOST=<your-smtp/pop-info i.e. smtp.gmail.com>
 EMAIL_USER=<your-email-username i.e. test@test.com>
 EMAIL_PASSWORD=<your-email-password i.e. pass123>
-`
+```
 
 # Links to resources needed
 [Nexmo (development numbers are free)](https://www.nexmo.com/)
